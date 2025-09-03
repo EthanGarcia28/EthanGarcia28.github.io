@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/blackSandSolutionsLogo.png
+image: img/blackSandSolutionsLogo1.png
 title: "Black Sand Solutions: Software Engineer Intern"
 date: 2025
 published: true
