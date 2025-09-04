@@ -3,52 +3,27 @@ layout: essay
 type: essay
 title: "The difficult things will always be difficult"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2025-09-03
 published: true
 labels:
-  - Engineering
+  - JavaScript
+  - TypeScript
+  - Athletic Software Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+  Java is the language that I’ve spent most of my coding journey with. Through understanding data structures and various algorithms, this language has become the foundation of my programming and my understanding of concepts in computer science. However, when I was introduced to Typescript in this module, my previous knowledge aided me in my journey of learning this new language, diving into a new but familiar territory. My coding background has helped me tremendously in understanding TypeScript’s syntax and structure quickly.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## Transitioning to TypeScript
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+  To learn TypeScript, I had to become more familiar with JavaScript. As I completed the tutorial, the similarities between JavaScript and Java can be clearly seen from their syntax, loops, if statements, and many other aspects, which ultimately helped me transition into this new language smoothly. However, the difference that I noticed was its very laid-back treatment of variable types. Java uses strict data types like int and boolean, which are also used in JavaScript, but are instead assigned automatically depending on the value of the variable. Additionally, JavaScript variables can use the keyword “let” to allow the variable to be reassigned and “const” to prevent that action. Another difference is their syntax for creating functions, specifically arrow functions, which are meant to write functions in a shorter form, which is very useful for short/one-liner functions.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## Athletic Software Engineering/WODs
 
-Here's what I think: the difficult things will always be difficult.
+  The concept of athletic software engineering and assigning WODs is very crucial to my learning process, as it forces me to showcase what I’ve learned from the unit. The practice WODs were really helpful in my understanding of Typescript, pushing me to apply the concepts learned and to familiarize myself with its syntax. The practice and real WODs have been stressful to do, but have been rewarding. The process of being under a time limit helped me focus on the problem, and completing the problem successfully gives me confidence in using these skills.		
 
-## In the context of programming
+## Conclusion
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+  Learning Typescript has not only expanded my knowledge in computer languages, but has also deepened my understanding of how different programming languages can be better than others in declaring data types and easier/shorter syntax. Utilizing my prior experience in programming has made me more adaptable in learning different languages. The WODs, while challenging, simulate practice under pressure, which is a very effective way to test my knowledge in applying the concepts that I have learned throughout this module.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
