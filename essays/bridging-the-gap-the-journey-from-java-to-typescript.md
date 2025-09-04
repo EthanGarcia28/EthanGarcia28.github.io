@@ -11,7 +11,7 @@ labels:
   - Athletic Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="img/typescript-logo-blue-square-modern-design-icon.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/typescript-logo-blue-square-modern-design-icon.png">
 
   Java is the language that I’ve spent most of my coding journey with. Through understanding data structures and various algorithms, this language has become the foundation of my programming and my understanding of concepts in computer science. However, when I was introduced to Typescript in this module, my previous knowledge aided me in my journey of learning this new language, diving into a new but familiar territory. My coding background has helped me tremendously in understanding TypeScript’s syntax and structure quickly.
 
