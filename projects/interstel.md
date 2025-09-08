@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/interstel-logo-NEWfinal.png
+image: img/interstel_logo.png
 title: "Interstel Technologies: GUI Design Intern"
 date: 2024
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "2024 Summer Internship as a GUI Designer at Interstel, contributing to the modernization of a classic space strategy game."
 ---
 
-<img class="img-fluid" src="../img/interstel-logo-NEWfinal.png">
+<img class="img-fluid" src="../img/interstel_logo.png">
 
 At Interstel Technologies, I worked as a GUI Desing Intern, helping modernize Star Fleet: Krellan Commander II, a classic space strategy game. My role focued on creating an updated user interface that improved it's usability while maintianing the game's original design.
 
