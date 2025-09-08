@@ -10,7 +10,7 @@ labels:
   - Interests and Goals
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/computer_pic.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/computer-science-pic.png">
 
 Ewa Makai Middle School is the place that would mark the beginning of my pursuit of software engineering. Fascinated by video games and inspired by content creators creating robots, programs, and fun tech projects, it was the fuel that would spark my interest in programming. When I took my first coding class and built my first-ever game, it was an unmatched feeling that I chased, being able to bring concepts to life, which led to my current position in programming and software engineering.
 
