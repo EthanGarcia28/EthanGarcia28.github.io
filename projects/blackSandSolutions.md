@@ -12,7 +12,7 @@ labels:
 summary: "2025 Summer Internship as a Software Engineer at Black Sand Solutions, creating simulations and and progrmas to aid satellites."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/blackSandSolutionsLogo1.png">
 
 At Black Sand Solutions, I worked as an Software Engineer intern along with other interns, creating and contirbuting to various projects assigned to us, expanding our hands-on experience and skills.
 
