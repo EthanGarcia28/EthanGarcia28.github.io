@@ -9,7 +9,7 @@ labels:
   - Python
   - GitHub
   - Artificial Intelligence
-summary: "2025 Summer Internship as a Software Engineer at Black Sand Solutions, creating simulations and and progrmas to aid satellites."
+summary: "2025 Summer Internship as a Software Engineer at Black Sand Solutions, creating simulations and and programs to aid satellites."
 ---
 
 <img class="img-fluid" src="../img/blackSandSolutionsLogo1.png">
