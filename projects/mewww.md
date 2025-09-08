@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mew.png
+image: img/prob.png
 title: "2024 Highschool Senior STEM Capstone Project: MEWWW"
 date: 2025
 published: true
