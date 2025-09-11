@@ -1,33 +1,38 @@
 ---
 layout: essay
 type: essay
-title: "Bridging the Gap: The Journey from Java to TypeScript"
+title: "SMART Questions: A Key Skill for Software Engineers"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-03
+date: 2025-09-10
 published: true
 labels:
-  - JavaScript
-  - TypeScript
-  - Athletic Software Engineering
+  - SMART Questions
+  - Software Engineering
+  - Learning
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/typescript-logo-blue-square-modern-design-icon.png">
 
-  Java is the language that I’ve spent most of my coding journey with. Through understanding data structures and various algorithms, this language has become the foundation of my programming and my understanding of concepts in computer science. However, when I was introduced to Typescript in this module, my previous knowledge aided me in my journey of learning this new language, diving into a new but familiar territory. My coding background has helped me tremendously in understanding TypeScript’s syntax and structure quickly.
+Asking questions is a great way to gain information and solutions to problems that you have. The likelihood of having that question receiving a response depends on whether your question is considered good. Therefore, smart questions have been conceptualized to not only prevent you from asking weak questions, but also to spark people’s interest and to gain a solution to a question that is worth solving, not only aiding you but also the community as a whole.
 
-## Java and JavaScript
+## The Importance of SMART Questions in Software Engineering
 
-  To learn TypeScript, I had to become more familiar with JavaScript. As I completed the tutorial, the similarities between JavaScript and Java can be clearly seen from their syntax, loops, if statements, and many other aspects, which ultimately helped me transition into this new language smoothly. However, the difference that I noticed was its very laid-back treatment of variable types. Java uses strict data types like int and boolean, which are also used in JavaScript, but are instead assigned automatically depending on the value of the variable. Additionally, JavaScript variables can use the keyword “let” to allow the variable to be reassigned and “const” to prevent that action. Another difference is their syntax for creating functions, specifically arrow functions, which are meant to write functions in a shorter form, which is very useful for short/one-liner functions.
+Smart questions are important for software engineers, as they create an environment that contributes to a cycle of constant learning and collaboration. With engaging and descriptive questions, people can easily understand the issue and reply with an accurate and meaningful response. This reduces wasted time and communication, encouraging members of the community to give each other support. Also, it’ll improve their communication and collaboration skills, as software engineers are constantly working in teams and on shared projects. Ultimately, the concept of smart questions is the key to being effective, collaborative, and growth-oriented as a software engineer.
 
-## Transitioning to TypeScript
-  After getting familiar with JavaScript, this next step in learning Typescript helped me understand why it was created. Personally, Typescript felt like the remastered version of JavaScript as it addresses the limitations of the original language. For instance, JavaScript’s use of guessing the data type creates the possibility of creating minor errors for unique cases. To prevent this, TypeScript allows us to declare what data type the variable is. This improves development and lessens runtime failures, contributing greatly to my practice and in-class WODs.
+## Example of a Poor Questions
 
-  
+On StackOverflow, an interesting question wants to “Alter images based on users’ color preferences without using Javascript.” The user wants to display different images based on the user’s preferred color scheme (light or dark) on a static website using only HTML and CSS. Their current method uses transparent images that work in both color schemes, but there are certain cases where the images don’t pop up in a desirable state. To fix this, they create duplicates for those images, giving the tools for both light and dark modes of it, but encounter the challenge of wanting to switch between these pictures without programming/utilizing any other coding language. 	
 
-## Athletic Software Engineering/WODs
+This is a great example of a smart question because it provides the necessary details, states the constraints of strictly using HTML and CSS, and describes a real-world problem the user can encounter. In addition, they provide code snippets to aid in giving context of how the static site is structured and the rules created for the dark theme. They also provide an example image of how light and dark modes look, allowing us to visualize the purpose of the program and to see it in action. By providing sufficient detail and a clear question, the community has been given all of the tools necessary to solve this problem. The responses received are detailed and helpful, reflecting how a smart question invites effective answers from the community.	
 
-  The concept of athletic software engineering and assigning WODs is very crucial to my learning process, as it forces me to showcase what I’ve learned from the unit. The practice WODs were really helpful in my understanding of Typescript, pushing me to apply the concepts learned and to familiarize myself with its syntax. The practice and real WODs have been stressful to do, but have been rewarding. The process of being under a time limit helped me focus on the problem, and completing the problem successfully gives me confidence in using these skills.		
+This well-crafted question was able to effectively communicate its problem and information clearly, but also makes us consider if the opposite were to occur. Examining ‘not smart’ questions will show their weaknesses in ineffectiveness through their low quality.
+
+## Example of a Poor Questions
+
+Another member of the community had a request titled, “Call Recorder for dialer app to record the calls and need to show in the call history with playback option and the recorder file needed.” In the content of the post, they mention their goal of creating a dialer app to record calls and save them in the phone’s storage. They also mention their desire to record calls but weren’t successful, only stating, “But I have tried, and it didn’t work.” Additionally, they want a playback feature and the recorder file to be saved in the phone storage. Overall, this poorly structured question reveals several issues that contribute to its ineffectiveness.
+
+First, the title lacks clarity, and it can be difficult to understand what it is asking. It is grammatically incorrect and mentions multiple topics. Additionally, the content of the post lacks any helpful information/details and code snippets. This makes it challenging for the community to provide solutions or helpful comments. These are all indicators of the question being ‘not smart,’ as it fails to meet the requirements to become one. Its ineffectiveness as a question is reflected in the lack of responses from the community.
 
 ## Conclusion
 
-  Learning Typescript has not only expanded my knowledge in computer languages, but has also deepened my understanding of how different programming languages can be better than others in declaring data types and easier/shorter syntax. Utilizing my prior experience in programming has made me more adaptable in learning different languages. The WODs, while challenging, simulate practice under pressure, which is a very effective way to test my knowledge in applying the concepts that I have learned throughout this module.
+As seen through both strong and weak examples, the quality of the questions plays a major role in the type of responses they receive. Smart questions that demonstrate clarity and effort and are descriptive can not only lead to effective solutions but also encourage collaboration within the software engineering community. By attaining this skill, this will help engineers grow technically and communicate effectively, which is an essential aspect in becoming a great software engineer.
