@@ -25,7 +25,7 @@ On StackOverflow, an interesting question wants to “Alter images based on user
 
 This is a great example of a smart question because it provides the necessary details, states the constraints of strictly using HTML and CSS, and describes a real-world problem the user can encounter. In addition, they provide code snippets to aid in giving context of how the static site is structured and the rules created for the dark theme. They also provide an example image of how light and dark modes look, allowing us to visualize the purpose of the program and to see it in action. By providing sufficient detail and a clear question, the community has been given all of the tools necessary to solve this problem. The responses received are detailed and helpful, reflecting how a smart question invites effective answers from the community.	
 
-URL to the query: [Click Here](https://stackoverflow.com/questions/74638826/alternate-images-based-on-users-color-preference-without-using-javascript)
+URL to question: [Click Here](https://stackoverflow.com/questions/74638826/alternate-images-based-on-users-color-preference-without-using-javascript)
 
 
 This well-crafted question was able to effectively communicate its problem and information clearly, but also makes us consider if the opposite were to occur. Examining ‘not smart’ questions will show their weaknesses in ineffectiveness through their low quality.
@@ -36,7 +36,7 @@ Another member of the community had a request titled, “Call Recorder for diale
 
 First, the title lacks clarity, and it can be difficult to understand what it is asking. It is grammatically incorrect and mentions multiple topics. Additionally, the content of the post lacks any helpful information/details and code snippets. This makes it challenging for the community to provide solutions or helpful comments. These are all indicators of the question being ‘not smart,’ as it fails to meet the requirements to become one. Its ineffectiveness as a question is reflected in the lack of responses from the community.
 
-URL to the query: [Click Here](https://stackoverflow.com/questions/79760459/call-recorder-for-dailer-app-to-record-the-calls-and-need-to-show-in-the-call-hi)
+URL to question: [Click Here](https://stackoverflow.com/questions/79760459/call-recorder-for-dailer-app-to-record-the-calls-and-need-to-show-in-the-call-hi)
 
 
 ## Conclusion
