@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescript-logo-blue-square-modern-design-icon.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/questions.png">
 
 Asking questions is a great way to gain information and solutions to problems that you have. The likelihood of having that question receiving a response depends on whether your question is considered good. Therefore, smart questions have been conceptualized to not only prevent you from asking weak questions, but also to spark people’s interest and to gain a solution to a question that is worth solving, not only aiding you but also the community as a whole.
 
