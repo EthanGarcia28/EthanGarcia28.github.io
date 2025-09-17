@@ -8,7 +8,7 @@ published: true
 labels:
   - Historical Analysis
   - Critical Research
-summary: "2025 Summer Internship as a Software Engineer at Black Sand Solutions, creating simulations and and programs to aid satellites."
+summary: "Analyzed Filipino migration under U.S. empire, connecting themes of colonialism, militarism, poverty, racism, and the American Dream with personal family history."
 ---
 
 <img class="img-fluid" src="../img/flag.png">
