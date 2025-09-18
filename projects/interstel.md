@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/interstel_logo.png
+image: img/logoNEW1.png
 title: "Interstel Technologies: GUI Design Intern"
 date: 2024-07-19
 published: true
