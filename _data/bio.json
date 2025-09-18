@@ -41,20 +41,6 @@
   ],
   "work": [
     {
-      "company": "Famous Footwear",
-      "position": "Sales Associate",
-      "startDate": "2023",
-      "endDate": "Present",
-      "summary": "Sales Associate promoting products, providing customer servies, and supporting daily store operations",
-      "highlights": [
-        "Delivered excellent customer service in a fast-paced retail environment",
-        "Handled cash register operations, sales transactions, and returns with accuracy",
-        "Maintained product displays and assisted with inventory stocking and organization",
-        "Collaborated with team members to ensure smooth store operations during peak hours",
-        "Demonstrated punctuality, responsibility, and adaptability in a dynamic work setting"
-      ]
-    },
-    {
       "company": "Black Sand Solutions",
       "position": "Software Engineer Intern",
       "website": "https://blacksandsolutions.com/",
@@ -82,6 +68,20 @@
         "Designed and implemented interactive buttons and menus to improve usability",
         "Developed wireframes and layouts to align with gameplay needs and user experience best practices",
         "Worked in a team-based, iterative design process to refine visuals and functionality"
+      ]
+    },
+    {
+      "company": "Famous Footwear",
+      "position": "Sales Associate",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Sales Associate promoting products, providing customer servies, and supporting daily store operations",
+      "highlights": [
+        "Delivered excellent customer service in a fast-paced retail environment",
+        "Handled cash register operations, sales transactions, and returns with accuracy",
+        "Maintained product displays and assisted with inventory stocking and organization",
+        "Collaborated with team members to ensure smooth store operations during peak hours",
+        "Demonstrated punctuality, responsibility, and adaptability in a dynamic work setting"
       ]
     }
   ]
