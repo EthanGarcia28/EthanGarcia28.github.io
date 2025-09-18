@@ -3,13 +3,16 @@ layout: project
 type: project
 image: img/flag.png
 title: "Corruption, Colonization, and the American Dream: Mapping Filipino Migration under Empire"
-date: 2025
+date: 2025-05-09
 published: true
 labels:
   - Historical Analysis
   - Critical Research
 summary: "Analyzed Filipino migration under U.S. empire, connecting themes of colonialism, militarism, poverty, racism, and the American Dream with personal family history."
 ---
+<div class="text-center p-4">
+  <img width="200px" src="../img/flag.png" class="img-thumbnail" >
+</div>
 
 <img class="img-fluid" src="../img/flag.png">
 
