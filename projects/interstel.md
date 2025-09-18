@@ -12,7 +12,11 @@ labels:
 summary: "2024 Summer Internship as a GUI Designer at Interstel, contributing to the modernization of a classic space strategy game."
 ---
 
-<img class="img-fluid" src="../img/interstel_logo.png">
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/interstel_logo.png" class="img-thumbnail" >
+</div>
+
 
 ##Internship Overview
 
