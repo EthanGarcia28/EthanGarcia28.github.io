@@ -33,7 +33,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2028)",
       "studyType": "B.S.",
-      "startDate": "08-26-2024",
+      "startDate": "2024",
       "endDate": "Present",
       "courses": [
       ]
@@ -41,31 +41,47 @@
   ],
   "work": [
     {
+      "company": "Famous Footwear",
+      "position": "Sales Associate",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Sales Associate promoting products, providing customer servies, and supporting daily store operations",
+      "highlights": [
+        "Delivered excellent customer service in a fast-paced retail environment",
+        "Handled cash register operations, sales transactions, and returns with accuracy",
+        "Maintained product displays and assisted with inventory stocking and organization",
+        "Collaborated with team members to ensure smooth store operations during peak hours",
+        "Demonstrated punctuality, responsibility, and adaptability in a dynamic work setting"
+      ]
+    },
+    {
       "company": "Black Sand Solutions",
       "position": "Software Engineer Intern",
       "website": "https://blacksandsolutions.com/",
-      "startDate": "June 2025",
-      "endDate": "July 2025",
+      "startDate": "2025",
+      "endDate": "2025",
       "summary": "SWE Intern creating programs for satellites",
       "highlights": [
         "Simulated orbital maneuvers, including Hohmann transfers and inclination changes",
-        "Model satellite behavior and visualize orbital data",
+        "Built a Python program to model satellite behavior and visualize orbital data",
+        "Applied orbital mechanics concepts to real-world scenarios",
         "Developed tools for collision avoidance and threat detection",
-        "Designed and trained YOLO object detection models for identifying ASAT(anti-satellite launchers"
+        "Designed and trained object detection models for identifying ASAT (anti-satellite) launchers",
+        "Created and utilized a synthetic dataset to improve model accuracy and robustness"
       ]
     },
     {
       "company": "Interstel Technologies Inc.",
       "position": "Graphic User Interface Designer Intern",
       "website": "https://www.interstel.tech/",
-      "startDate": "June 2024",
-      "endDate": "July 2024",
-      "summary": "",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "GUI Design Intern contributing to the modernization of Star Fleet II: Krellan Commander.",
       "highlights": [
         "Collaborated with a team to recreate and modernize UI screens for the game",
         "Designed and implemented interactive buttons and menus to improve usability",
         "Developed wireframes and layouts to align with gameplay needs and user experience best practices",
-        "Worked in a team-based, iterative design process to refine visuals and functionalityContributed"
+        "Worked in a team-based, iterative design process to refine visuals and functionality"
       ]
     }
   ]
