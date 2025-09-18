@@ -14,7 +14,6 @@ summary: "Analyzed Filipino migration under U.S. empire, connecting themes of co
   <img width="200px" src="../img/flag.png" class="img-thumbnail" >
 </div>
 
-<img class="img-fluid" src="../img/flag.png">
 
 For this project, I researched and wrote a 22 page paper titled _Corruption, Colonization, and the American Dream: Mapping Filipino Migration under Empire_. The paper examed how U.S. imperialism and colonial influence shaped Filipino migration during the 19th and 20th centuries. I Focused on the intersections of militarism, poverty, corruption, racism, and the pursuit of the American Dream, showing how these forces not only pushed Filipinos to migrate but also structured their experiences once in the United States.
 
