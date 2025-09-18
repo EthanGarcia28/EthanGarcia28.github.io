@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Bridging the Gap: The Journey from Java to TypeScript"
+title: "From Interest to Dream: Pursuing Computer Science"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-07
 published: true
