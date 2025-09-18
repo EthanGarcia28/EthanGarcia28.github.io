@@ -21,4 +21,4 @@ In developing the paper, I engaged with a wide ranged of scholarly texts, includ
 
 Ultimately, this project not only deepened my understanding of Filipino migration as part of a broader history of U.S. empire, and colonialism but also allowed me to see the ways these forces continue to chape families across generations. through the process, I stregthened my skills in critical research, academic writing, and connecting theory with lived experience, and these skills continue to influence my acdemic and professional growth.
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+You can check out my paper here: <a href="https://github.com/EthanGarcia28/Corruption-Colonization-and-the-American-Dream-Mapping-Filipino-Migration-under-Empire"><i class="large github icon "></i>Research Paper</a>
