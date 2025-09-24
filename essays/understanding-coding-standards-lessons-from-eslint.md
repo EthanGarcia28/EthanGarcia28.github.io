@@ -8,10 +8,10 @@ published: true
 labels:
   - Coding Standards
   - VSCode
-  - Athletic Software Engineering
+  - ESLint
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescript-logo-blue-square-modern-design-icon.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/ESLintLogo.png">
 
 ## Introduction: More Than Just Indentation
 
