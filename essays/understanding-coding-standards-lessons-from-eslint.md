@@ -27,7 +27,7 @@ labels:
 
 ## Applying ESLint in WODs
 
-	In our recent “Baby-Bieber” practice WOD, we had to work with a file containing the lyrics of Justin Bieber’s “Baby” that was separate from our file containing our functions. Although I was referencing the array from another file, ESLint flagged it as “defined but never used.” To resolve this, I added a console.log statement to print the array’s length. This tool has allowed me to follow the coding standards more effectively in developing and maintaining quality code.
+  In our recent “Baby-Bieber” practice WOD, we had to work with a file containing the lyrics of Justin Bieber’s “Baby” that was separate from our file containing our functions. Although I was referencing the array from another file, ESLint flagged it as “defined but never used.” To resolve this, I added a console.log statement to print the array’s length. This tool has allowed me to follow the coding standards more effectively in developing and maintaining quality code.
 
 ## Why Coding Standards Matter
 
