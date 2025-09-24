@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Bridging the Gap: The Journey from Java to TypeScript"
+title: "Breaking Bad Code: ESLint and the Power of Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-23
 published: true
