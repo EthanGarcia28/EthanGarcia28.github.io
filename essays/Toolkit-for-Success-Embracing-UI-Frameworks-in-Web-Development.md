@@ -32,16 +32,20 @@ In my own experience using Bootstrap 5, I recreated a webpage from Mailchimp's w
 ##
 
 Original:
-<img width="400px" class="rounded float-start pe-4" src="../img/ui-frameworks/original1.png">
-<img width="400px" class="rounded float-start pe-4" src="../img/ui-frameworks/original2.png">
-<img width="400px" class="rounded float-start pe-4" src="../img/ui-frameworks/original3.png">
+
+##
+<img width="600px" class="rounded float-start pe-4" src="../img/ui-frameworks/original1.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/ui-frameworks/original2.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/ui-frameworks/original3.png">
 
 ##
 
 Recreation:
-<img width="400px" class="rounded float-start pe-4" src="../img/ui-frameworks/recreate1.png">
-<img width="400px" class="rounded float-start pe-4" src="../img/ui-frameworks/recreate2.png">
-<img width="400px" class="rounded float-start pe-4" src="../img/ui-frameworks/recreate3.png">
+
+##
+<img width="600px" class="rounded float-start pe-4" src="../img/ui-frameworks/recreate1.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/ui-frameworks/recreate2.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/ui-frameworks/recreate3.png">
 
 
 
