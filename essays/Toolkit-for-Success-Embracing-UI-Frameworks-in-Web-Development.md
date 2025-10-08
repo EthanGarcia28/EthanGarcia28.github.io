@@ -29,20 +29,24 @@ While remembering and combining all these classes can be complicated, the result
 
 In my own experience using Bootstrap 5, I recreated a webpage from Mailchimp's website(link). The process was challenging, as there were many different sections and styles to replicate. Organizing the styling of the page to closely match the original required a significant amount of work to build and refine it. However, Bootstrap definitely made the process easier by providing classes to help with creating the navbar, styling buttons, and unique features like a 4-column section with images in the middle of the page. It was also helpful using this UI framework as it adjusted accordingly to the window size, whether it was small or large, resulting in a functional webpage.
 
-### Original:
-
-<p align="left">
-  <img src="../img/ui-frameworks/original1.png" width="200">
-  <img src="../img/ui-frameworks/original2.png" width="200">
-  <img src="../img/ui-frameworks/original3.png" width="200">
+<p>
+  Original:
 </p>
 
-### Recreation:
+<p align="left">
+  <img src="../img/ui-frameworks/original1.png" width="500">
+  <img src="../img/ui-frameworks/original2.png" width="500">
+  <img src="../img/ui-frameworks/original3.png" width="500">
+</p>
+
+<p>
+  Recreation:
+</p>
 
 <p align="left">
-  <img src="../img/ui-frameworks/recreate1.png" width="200">
-  <img src="../img/ui-frameworks/recreate2.png" width="200">
-  <img src="../img/ui-frameworks/recreate3.png" width="200">
+  <img src="../img/ui-frameworks/recreate1.png" width="500">
+  <img src="../img/ui-frameworks/recreate2.png" width="500">
+  <img src="../img/ui-frameworks/recreate3.png" width="500">
 </p>
 
 
