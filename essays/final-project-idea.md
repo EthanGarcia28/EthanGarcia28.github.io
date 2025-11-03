@@ -13,6 +13,7 @@ labels:
 Proposers: Miley Chun, Ethan Garcia
 
 ## Overview
+
 In universities it is common for students to feel stressed from heavy work loads. Socialization becomes a lower priority festering loneliness, especially for students that dorm. For many people animals can provide emotional support; however, pets are not allowed in the dorms. 
 
 The solution: The Manoa PetPal app will allow students to:
@@ -30,7 +31,8 @@ The Manoa PetPal app will provide a consolidated source directory of animals tak
 Users should be able to indicate preferences and/or pet types to exclude in their search, which will help the app to present more individualized choices.
 For places with animals who have been adopted out or brought in, vendors should be able to login to provide this data.
 
-## Mockup page ideas:
+## Mockup page ideas
+
 * Landing page
 * User home page
 * Vendor home pages
@@ -40,13 +42,15 @@ For places with animals who have been adopted out or brought in, vendors should 
 * Pets available right now page
 * Today’s top picks page
 
-## Use case Ideas:
+## Use case ideas
+
 * The new user goes to the landing page, logs in, gets the home page, sets up a profile. (How do they learn how the system works?)
 * Admin goes to the landing page, logs in, gets the home page, and edits the site.
 * The user goes to the landing page, logs in, looks for pets to ‘rent’.
 * User is notified of daily animals that match their preferences
 
-Beyond the basics:                                                      						After implementing the basic functionality, here are ideas for more advanced features:
+## Beyond the basics
+After implementing the basic functionality, here are ideas for more advanced features:
 * Notify students via email, Twitter, SMS when their preferred pets or pet vendors are available.
 * Automate updating of available pets from vendors. For example, a pet vendor agrees to post their pet availability on Twitter, and Manoa PetPal parses their Twitter post and updates its page.
 * Allow students to rate and review pets.
