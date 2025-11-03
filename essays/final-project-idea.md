@@ -7,6 +7,8 @@ labels:
   - Software Engineering
   - Nextjs
 ---
+<img width="200px" class="rounded float-start pe-4" src="../img/pug.png">
+
 
 Proposers: Miley Chun, Ethan Garcia
 
