@@ -1,44 +1,43 @@
 ---
 layout: essay
 type: essay
-title: "Patterns That Matter: Practical Design Patterns from My Final Project"
-# All dates must be YYYY-MM-DD format!
+title: "Blueprints of Logic: How Design Patterns Shaped My Roommate App"
 date: 2025-12-03
 published: true
 labels:
-  - SMART Questions
+  - Design Patterns
   - Software Engineering
-  - Learning
+  - Roommatch
 ---
 
-# <img width="200px" class="rounded float-start pe-4" src="../img/questions.png">
+# <img width="220px" class="rounded float-start pe-4" src="../img/patterns.png">
 
-Asking questions is a great way to gain information and solutions to problems that you have. The likelihood of having that question receiving a response depends on whether your question is considered good. Therefore, smart questions have been conceptualized to not only prevent you from asking weak questions, but also to spark people’s interest and to gain a solution to a question that is worth solving, not only aiding you but also the community as a whole.
+When building software, the structure of your codebase plays a similar role to the structure of a home. Without organization, your project becomes messy, harder to understand, and difficult to maintain. With the right blueprints, however, the entire system becomes clearer and more stable. These blueprints are known as design patterns, which help developers solve recurring problems while keeping code clean and predictable. During the development of my final project, Roommatch, I learned how essential these patterns are in creating a well-structured application.
 
-## The Importance of SMART Questions in Software Engineering
+## The Role of Design Patterns in Software Engineering
 
-Smart questions are important for software engineers, as they create an environment that contributes to a cycle of constant learning and collaboration. With engaging and descriptive questions, people can easily understand the issue and reply with an accurate and meaningful response. This reduces wasted time and communication, encouraging members of the community to give each other support. Also, it’ll improve their communication and collaboration skills, as software engineers are constantly working in teams and on shared projects. Ultimately, the concept of smart questions is the key to being effective, collaborative, and growth-oriented as a software engineer.
+Design patterns are important because they act as reusable solutions to common challenges that engineers face. They help create an environment where developers can write code that is easier to test, reuse, and extend later on. Since software projects often involve teamwork, consistent patterns improve communication and prevent confusion, especially as features grow more complex. In my project, several design patterns naturally appeared as I organized the logic for matching users, handling chats, and managing stored information.
 
-## Example of a SMART Question
+## Layered Architecture: Keeping Each Part of the App Organized
 
-On StackOverflow, an interesting question wants to “Alter images based on users’ color preferences without using Javascript.” The user wants to display different images based on the user’s preferred color scheme (light or dark) on a static website using only HTML and CSS. Their current method uses transparent images that work in both color schemes, but there are certain cases where the images don’t pop up in a desirable state. To fix this, they create duplicates for those images, giving the tools for both light and dark modes of it, but encounter the challenge of wanting to switch between these pictures without programming/utilizing any other coding language. 	
+One of the most influential patterns in Roommatch was the use of a layered architecture. This pattern separates a project into different sections, each with a specific responsibility. For example, the user interface is responsible for displaying information, the server routes handle requests and decisions, and the database layer manages stored data. Keeping these layers distinct made the project much easier to navigate and understand.
 
-This is a great example of a smart question because it provides the necessary details, states the constraints of strictly using HTML and CSS, and describes a real-world problem the user can encounter. In addition, they provide code snippets to aid in giving context of how the static site is structured and the rules created for the dark theme. They also provide an example image of how light and dark modes look, allowing us to visualize the purpose of the program and to see it in action. By providing sufficient detail and a clear question, the community has been given all of the tools necessary to solve this problem. The responses received are detailed and helpful, reflecting how a smart question invites effective answers from the community.	
+This organization also made debugging more manageable. When messages stopped appearing in the chat at one point, I could check each layer separately to find out where the issue started. Because the responsibilities were clearly divided, I quickly discovered that the problem came from an incorrect value being passed through the server route. Without this structure, identifying the issue would have taken much longer. Overall, the layered architecture pattern kept different parts of the project from interfering with one another and maintained clarity in the codebase.
 
-URL to question: [Click Here](https://stackoverflow.com/questions/74638826/alternate-images-based-on-users-color-preference-without-using-javascript)
+## Repository Pattern: Centralizing How Data Is Accessed
 
+Another helpful pattern was the Repository pattern, which centralizes all database interactions in one place. Instead of having database queries scattered across different parts of the project, Roommatch collects all data-related operations in a single file. This makes the project much easier to maintain and update, especially when the structure of the database changes.
 
-This well-crafted question was able to effectively communicate its problem and information clearly, but also makes us consider if the opposite were to occur. Examining ‘not smart’ questions will show their weaknesses in ineffectiveness through their low quality.
+For example, when I separated user information into two different tables, I only had to adjust the functions inside this centralized file. The rest of the system continued working without any major changes. This pattern also encouraged consistency throughout the project, preventing small differences in database calls from causing bugs. By keeping all data access in one place, the Repository pattern improved organization and made future modifications much easier.
 
-## Example of a Poor Question
+## Transactions / Unit of Work: Preventing Data Problems
 
-Another member of the community had a request titled, “Call Recorder for dialer app to record the calls and need to show in the call history with playback option and the recorder file needed.” In the content of the post, they mention their goal of creating a dialer app to record calls and save them in the phone’s storage. They also mention their desire to record calls but weren’t successful, only stating, “But I have tried, and it didn’t work.” Additionally, they want a playback feature and the recorder file to be saved in the phone storage. Overall, this poorly structured question reveals several issues that contribute to its ineffectiveness.
+One of the more challenging bugs I encountered happened when two users tried to open a chat at the same time. Occasionally, the app would accidentally create duplicate chat rooms or place a user’s message into the wrong chat. This happened because the system allowed both actions to happen at once, resulting in mixed or duplicated data.
 
-First, the title lacks clarity, and it can be difficult to understand what it is asking. It is grammatically incorrect and mentions multiple topics. Additionally, the content of the post lacks any helpful information/details and code snippets. This makes it challenging for the community to provide solutions or helpful comments. These are all indicators of the question being ‘not smart,’ as it fails to meet the requirements to become one. Its ineffectiveness as a question is reflected in the lack of responses from the community.
-
-URL to question: [Click Here](https://stackoverflow.com/questions/79760459/call-recorder-for-dailer-app-to-record-the-calls-and-need-to-show-in-the-call-hi)
-
+To solve this, I used the concept of transactions, which follow the Unit of Work design pattern. This pattern ensures that multiple related operations are treated as one complete action. If everything succeeds, the changes are saved, but if something goes wrong, nothing is saved at all. After applying this pattern, Roommatch no longer created duplicate chats, and the messages consistently appeared where they belonged. The system became more reliable, especially when users performed actions at the same time.
 
 ## Conclusion
 
-As seen through both strong and weak examples, the quality of the questions plays a major role in the type of responses they receive. Smart questions that demonstrate clarity and effort and are descriptive can not only lead to effective solutions but also encourage collaboration within the software engineering community. By attaining this skill, this will help engineers grow technically and communicate effectively, which is an essential aspect in becoming a great software engineer.
+Throughout the development of Roommatch, design patterns played a major role in helping me write organized, understandable, and reliable code. Patterns such as the Layered Architecture, Repository, and Unit of Work helped the project avoid confusion, stay consistent, and prevent difficult bugs. These patterns provided structure during the entire development process and made the application easier to maintain and grow.
+
+Ultimately, design patterns act as guides for solving common problems in software. They help engineers write code that makes sense not only today but also in the future. By learning and applying these patterns, developers can create applications that are cleaner, more stable, and easier for others to understand—qualities that are essential in becoming a strong and effective software engineer.
