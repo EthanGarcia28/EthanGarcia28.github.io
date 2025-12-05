@@ -10,7 +10,7 @@ labels:
   - Roommatch
 ---
 
-# <img width="220px" class="rounded float-start pe-4" src="../img/patterns.png">
+# <img width="220px" class="rounded float-start pe-4" src="../img/design-patterns-logo-2.png">
 
 When building software, the structure of your codebase plays a similar role to the structure of a home. Without organization, your project becomes messy, harder to understand, and difficult to maintain. With the right blueprints, however, the entire system becomes clearer and more stable. These blueprints are known as design patterns, which help developers solve recurring problems while keeping code clean and predictable. During the development of my final project, Roommatch, I learned how essential these patterns are in creating a well-structured application.
 
