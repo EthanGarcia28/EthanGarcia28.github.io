@@ -10,7 +10,7 @@ labels:
   - Time Tracking
 ---
 
-# <img width="220px" class="rounded float-start pe-4" src="../img/effort-estimation.png">
+# <img width="220px" class="rounded float-start pe-4" src="../img/timeEstimation.png">
 
 Software development rarely takes exactly as long as we expect it to. Early in this project, I learned that effort estimation is less about predicting the future and more about understanding how I actually work. By estimating tasks, tracking my time, and reflecting on the differences between the two, I gained a clearer picture of where effort truly goes.
 
