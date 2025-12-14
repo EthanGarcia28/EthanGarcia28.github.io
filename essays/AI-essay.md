@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Cost of Thinking in Software Projects"
+title: "Efficiency at the Expense of Understanding"
 date: 2025-12-14
 published: true
 labels:
