@@ -11,7 +11,7 @@ labels:
   - Design Patterns
 ---
 
-# <img width="220px" class="rounded float-start pe-4" src="../img/timeEstimation.png">
+# <img width="220px" class="rounded float-start pe-4" src="../img/reflect.png">
 
 ## Introduction
 
