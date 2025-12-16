@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/blackSandSolutionsLogo1.png
+image: img/landing-page.png
 title: "RoomMatch UHM: A Roommate Matching Web Application"
 date: 2025-12-16
 published: true
@@ -17,7 +17,7 @@ summary: "A full-stack roommate matching web application developed by my team as
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/landing-page.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/landing-page.png" class="img-thumbnail" >
 </div>
 
 ## RoomMatch UHM
