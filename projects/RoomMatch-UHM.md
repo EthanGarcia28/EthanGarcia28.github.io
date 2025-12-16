@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/landing-page.png
+image: img/RoomMatch.png
 title: "RoomMatch UHM: A Roommate Matching Web Application"
 date: 2025-12-16
 published: true
