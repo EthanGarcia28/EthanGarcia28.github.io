@@ -17,7 +17,7 @@ summary: "A full-stack roommate matching web application developed by my team as
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/landing-page" class="img-thumbnail" >
+  <img width="200px" src="../img/landing-page.png" class="img-thumbnail" >
 </div>
 
 ## RoomMatch UHM
